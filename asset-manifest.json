@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/airbnb_homepage_react/static/css/main.26b4ffb0.css",
+    "main.js": "/airbnb_homepage_react/static/js/main.0d12f79f.js",
+    "static/js/787.0c1dd775.chunk.js": "/airbnb_homepage_react/static/js/787.0c1dd775.chunk.js",
+    "static/media/assagao.webp": "/airbnb_homepage_react/static/media/assagao.da607863a44707bcd4c3.webp",
+    "static/media/kihim.webp": "/airbnb_homepage_react/static/media/kihim.ddd8ed374cd51992f5fc.webp",
+    "static/media/thailand.webp": "/airbnb_homepage_react/static/media/thailand.356a250e9b4de4dfe11b.webp",
+    "static/media/airbnb.png": "/airbnb_homepage_react/static/media/airbnb.e42751df984388eb0804.png",
+    "static/media/goa.webp": "/airbnb_homepage_react/static/media/goa.5707559f458f08dd3c3d.webp",
+    "static/media/pimplad.webp": "/airbnb_homepage_react/static/media/pimplad.7eb1a0110e350686914f.webp",
+    "static/media/lonavala.webp": "/airbnb_homepage_react/static/media/lonavala.37c175c4391a2ca399c7.webp",
+    "index.html": "/airbnb_homepage_react/index.html",
+    "main.26b4ffb0.css.map": "/airbnb_homepage_react/static/css/main.26b4ffb0.css.map",
+    "main.0d12f79f.js.map": "/airbnb_homepage_react/static/js/main.0d12f79f.js.map",
+    "787.0c1dd775.chunk.js.map": "/airbnb_homepage_react/static/js/787.0c1dd775.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26b4ffb0.css",
+    "static/js/main.0d12f79f.js"
+  ]
+}
