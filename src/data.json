@@ -1,0 +1,78 @@
+[{
+    "id": 201,
+    "location": {
+        "address": "456 Park Ave",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zipcode": "90001"
+    },
+    "distance": 3.5,
+    "price": 120,
+    "rating": 4.4,
+    "img" : "assagao.webp"
+},
+{
+    "id": 202,
+    "location": {
+        "address": "789 Market St",
+        "city": "San Francisco",
+        "state": "CA",
+        "zipcode": "94103"
+    },
+    "distance": 2.8,
+    "price": 150,
+    "rating": 4.5,
+    "img" : "goa.webp"
+},
+{
+    "id": 203,
+    "location": {
+        "address": "101 Elm St",
+        "city": "Chicago",
+        "state": "IL",
+        "zipcode": "60601"
+    },
+    "distance": 4.5,
+    "price": 75,
+    "rating": 3.5,
+    "img" : "kihim.webp"
+},
+{
+    "id": 204,
+    "location": {
+        "address": "55 Jackson Blvd",
+        "city": "Houston",
+        "state": "TX",
+        "zipcode": "77001"
+    },
+    "distance": 6.2,
+    "price": 90,
+    "rating": 4.0,
+    "img" : "lonavala.webp"
+},
+{
+    "id": 205,
+    "location": {
+        "address": "33 Broadway",
+        "city": "New York",
+        "state": "NY",
+        "zipcode": "10006"
+    },
+    "distance": 1.2,
+    "price": 200,
+    "rating": 4.8,
+    "img" : "pimplad.webp"
+},
+{
+    "id": 206,
+    "location": {
+        "address": "125 1st Ave",
+        "city": "Seattle",
+        "state": "WA",
+        "zipcode": "98101"
+    },
+    "distance": 3.1,
+    "price": 130,
+    "rating": 4.2,
+    "img" : "thailand.webp"
+}]

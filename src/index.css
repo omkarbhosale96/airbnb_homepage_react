@@ -11,3 +11,135 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.header{
+  box-shadow: 0px 3px 5px  rgb(216, 216, 216);
+}
+
+.logo{
+  width: 100px;
+  margin: 2%;
+}
+
+.main{
+  text-align: center;
+  font-size: 30px;
+  font-weight: 600;
+  background-image: linear-gradient(to right, #553c9a 45%, #ee4b2b);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.main>p{
+  font-size: xx-large;
+  color: rgb(96, 96, 96);
+  font-weight: 200;
+}
+
+.card{
+  width: 350px;
+  height: 500px;
+  margin: 2%;
+ 
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border-radius: 9px;
+}
+
+.card>img{
+  width: 100%;
+  height: 60%;
+ border-radius: 9px 9px 0px 0px;
+}
+
+.content{
+  padding: 0% 4%;
+}
+
+.card-header{
+  display: flex;
+  justify-content: space-between;
+  font-weight: 600;
+  margin-bottom: -10px;
+  text-align: center;
+}
+
+.distance{
+  color: gray;
+  margin-top: -10px;
+  margin-bottom: 0;
+}
+
+.price{
+  font-weight: 500;
+}
+
+.card-container{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  row-gap: 5px;
+  margin: 0% 3%;
+  align-items: center;
+  justify-content: center;
+}
+/* CSS */
+
+.button-4 {
+  width: 200px;
+  margin: 0% 20%;
+  appearance: none;
+  background-color: #eae9e9;
+  border: 1px solid rgba(27, 31, 35, 0.15);
+  border-radius: 6px;
+  box-shadow: rgba(27, 31, 35, 0.04) 0 1px 0, rgba(255, 255, 255, 0.25) 0 1px 0 inset;
+  box-sizing: border-box;
+  color: #24292E;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  list-style: none;
+  padding: 6px 16px;
+  position: relative;
+  transition: background-color 0.2s cubic-bezier(0.3, 0, 0.5, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  white-space: nowrap;
+  word-wrap: break-word;
+}
+
+.button-4:hover {
+  background-color: #F3F4F6;
+  text-decoration: none;
+  transition-duration: 0.1s;
+}
+
+.button-4:disabled {
+  background-color: #FAFBFC;
+  border-color: rgba(27, 31, 35, 0.15);
+  color: #959DA5;
+  cursor: default;
+}
+
+.button-4:active {
+  background-color: #EDEFF2;
+  box-shadow: rgba(225, 228, 232, 0.2) 0 1px 0 inset;
+  transition: none 0s;
+}
+
+.button-4:focus {
+  outline: 1px transparent;
+}
+
+.button-4:before {
+  display: none;
+}
+
+.button-4:-webkit-details-marker {
+  display: none;
+}
+
